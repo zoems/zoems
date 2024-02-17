@@ -1,10 +1,15 @@
-Hey! Thanks for checking out my github!
+Hey! Thanks for checking out my GitHub!
 
--  📫 zoemsmart@gmail.com
--  🖇️ https://www.linkedin.com/in/zoe-mawby-smart/
+- 📫 [zoemsmart@gmail.com](mailto:zoemsmart@gmail.com)
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/zoe-mawby-smart/)
 
-Have a look at my projects collaborated on. 
-The web application 💫*Warm and Furries*💫 took my team of 2 and I 1 week to conceptualize design and produce!
-Or checkout the mobile app ✨*Skill-Share*✨ that I and a team of 3 took from idea to product in 2 weeks!
+Have a look at my projects I collaborated on. 
+The web application **💫Warm and Furries💫** took our team of 3 1 week to conceptualize, design, and produce!
+Or checkout the mobile web app **✨Skill-Share✨** that took our team of 4 2 weeks from idea to product!
 
-- 🌱 I’m currently developing with Ruby on Rails and deploying with Heroku!
+- 🌱 I’m currently Freelance developing with Ruby on Rails and deploying with Heroku!
+
+### Current Freelance projects in progress: 
+
+- **Smartaqua**: A website for an Aquaculture consultant.
+- **TartTwins**: An online store for 2 small Berlin fashion designers.
