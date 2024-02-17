@@ -11,5 +11,6 @@ Or checkout the mobile web app **✨Skill-Share✨** that took our team of 4 2 w
 
 ### Current Freelance projects in progress: 
 
-- **Smartaqua**: A website for an Aquaculture consultant.
-- **TartTwins**: An online store for 2 small Berlin fashion designers.
+- [**Smartaqua**](https://github.com/zoems/smartaqua): A website for an Aquaculture consultant.
+- [**TartTwins**](https://github.com/zoems/tarttwins): An online store for 2 small Berlin fashion designers.
+
